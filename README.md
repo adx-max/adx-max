@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Big Ben from BenTech Security
-- 👀 I’m interested in cybersecurity
+- 👀 I’m growing my knowledge in cybersecurity
 - 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking for a mentor 
 - 📫 How to reach me BenTech Security on IG
 
 <!---
