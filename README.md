@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ANESTUS UDUME also known as Big Ben from BenTech Security
 - 👀 I’m growing my knowledge in cybersecurity
-- 🌱 I’m currently learning ethical hacking
+- I AM YOUR ONE STOP FOR ALL YOUR PENETESTING SCRIPTS
 - 📫 How to reach me BenTech Security on IG
 - I also offer free lessons in Pentesting, to assist others to avoid mistakes i made when starting up.
 
